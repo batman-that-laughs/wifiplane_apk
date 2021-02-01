@@ -1,0 +1,63 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: processing/opengl/shaders/TexFrag.glsl
+SHA1-Digest: TzA8XNt4eeo0cyRnQ8sj18Dlnvo=
+
+Name: AndroidManifest.xml
+SHA1-Digest: G24EGo5+nEiyhiQ8HJgeRLMOtn8=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: tfDFo+6r8wPd3r+5QAvx+2iA20w=
+
+Name: processing/opengl/shaders/ColorVert.glsl
+SHA1-Digest: b0Vh/j4R6D664Cxj7+5BWyDvMRg=
+
+Name: res/drawable/icon.png
+SHA1-Digest: oRCM0wP6lE8sqGAvHw82NEEGRBs=
+
+Name: processing/opengl/shaders/PointVert.glsl
+SHA1-Digest: foyhl7i1AZaIb4L25ye2GLwVwHA=
+
+Name: res/layout/main.xml
+SHA1-Digest: MKmPwHSuZTJV3WTW+/kHnx79aGA=
+
+Name: processing/opengl/shaders/LightVert.glsl
+SHA1-Digest: mBlI1ZNpSDs4VqR/H1CloGUrO3Y=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: y65+vFZCe7q60G0a1N7m6w1Se9E=
+
+Name: processing/opengl/shaders/PointFrag.glsl
+SHA1-Digest: BO2Kki+8305dLSk1Ep0WZiqdv+k=
+
+Name: processing/opengl/shaders/MaskFrag.glsl
+SHA1-Digest: gduY6BckHI1Fiwixhl4ILCdzLFc=
+
+Name: processing/opengl/shaders/LineVert.glsl
+SHA1-Digest: YHo3F3UWrKHUcV5di0pj7bFgW2I=
+
+Name: processing/opengl/shaders/TexLightFrag.glsl
+SHA1-Digest: jeOFAfdvm4/gx64DXSkNezpIurw=
+
+Name: processing/opengl/shaders/TexVert.glsl
+SHA1-Digest: UXIglgvNdJNVgIdK1MQFa7sNbeY=
+
+Name: processing/opengl/shaders/ColorFrag.glsl
+SHA1-Digest: BO2Kki+8305dLSk1Ep0WZiqdv+k=
+
+Name: processing/opengl/shaders/LightFrag.glsl
+SHA1-Digest: QdTD9/yf7IXq4A3kU5NbMMzpmrk=
+
+Name: resources.arsc
+SHA1-Digest: wrN3Pms/sJu52K32XzOMC7rmgIc=
+
+Name: classes.dex
+SHA1-Digest: Q+6rDEUllecsN3dX2HXCSZgNgIU=
+
+Name: processing/opengl/shaders/LineFrag.glsl
+SHA1-Digest: zqF+lkSHqSzfKkKsK7aS28tzUs8=
+
+Name: processing/opengl/shaders/TexLightVert.glsl
+SHA1-Digest: yXOsYEjVmLEvNn84COYnoACEXVQ=
+
